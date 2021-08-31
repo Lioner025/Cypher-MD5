@@ -1,0 +1,8 @@
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\bin\Debug\CDM5.exe.config
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\bin\Debug\CDM5.exe
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\bin\Debug\CDM5.pdb
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\obj\Debug\CDM5.csprojResolveAssemblyReference.cache
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\obj\Debug\CDM5.MainForm.resources
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\obj\Debug\CDM5.csproj.GenerateResource.Cache
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\obj\Debug\CDM5.exe
+C:\Users\Lioner\Documents\SharpDevelop Projects\CDM5\CDM5\obj\Debug\CDM5.pdb
